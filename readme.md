@@ -1,5 +1,5 @@
 # Favorite fruit
 - mango
-- kiwi
+- kiwi fruit
 - grape
 - orange
